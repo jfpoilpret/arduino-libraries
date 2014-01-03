@@ -1,5 +1,5 @@
-arduino-projects
-================
+arduino-libraries
+=================
 
 This repository contains all my own reusable libraries for use in my Arduino projects.
 
@@ -13,4 +13,4 @@ For my electronics circuits design, I use 2 useful applications, they are not fr
 - for diagrams, I use [sPlan 7.0](http://www.abacom-online.de/uk/html/splan.html) 
 - for stripboards design and wiring, I use [LochMaster 4.0](http://www.abacom-online.de/uk/html/lochmaster.html) for the stripboard circuit. 
 
-If you don't want to buy sPlan or LochMaster, you can still open these files with free viewers for [sPlan](http://www.abacom-online.de/updates/sPlan70_Viewer.exe) and [LochMaster](http://www.abacom-online.de/updates/LochMaster40_Viewer.zip).
+If you don't want to buy sPlan or LochMaster, you can still open the matching files with free viewers for [sPlan](http://www.abacom-online.de/updates/sPlan70_Viewer.exe) and [LochMaster](http://www.abacom-online.de/updates/LochMaster40_Viewer.zip).
