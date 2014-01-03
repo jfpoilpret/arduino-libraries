@@ -4,14 +4,14 @@ DisplayDriver library
 This library is used to drive a home-made display board,using a 4-digit 7-segments LED display and a MAX-7219 IC.
 
 The board was designed according to the following schema:
-![Display Driver schema](/docs/DisplayDriver-diagram.JPG)
+![Display Driver schema](/DisplayDriver-diagram.JPG)
 
 The board is wired on a stripboard according to the following circuits:
-![stripboard component side](/docs/DisplayDriver-board-1.JPG)
-![stripboard copper side](/docs/DisplayDriver-board-2.JPG)
+![stripboard component side](/DisplayDriver-board-1.JPG)
+![stripboard copper side](/DisplayDriver-board-2.JPG)
 
 Here are the original sPlan and LochMaster files for the diagram and stripboard:
-[schema](/docs/4DigitsMux.spl7) and [stripboard](/docs/4DigitsMux2.LM4)
+[schema](/4DigitsMux.spl7) and [stripboard](/4DigitsMux2.LM4)
 
 Here is the bill of materials for the board:
 
